@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dgn-portfolio/static/css/main.8f96fbd4.css",
+    "main.js": "/dgn-portfolio/static/js/main.1810af05.js",
+    "static/js/787.e01b844e.chunk.js": "/dgn-portfolio/static/js/787.e01b844e.chunk.js",
+    "static/media/vouge.png": "/dgn-portfolio/static/media/vouge.b75bd3bc5ce1672fb954.png",
+    "static/media/drmarten.png": "/dgn-portfolio/static/media/drmarten.ff716e956f87da9be14c.png",
+    "static/media/alice.png": "/dgn-portfolio/static/media/alice.ef407a9f881cc36b8b3f.png",
+    "static/media/blackout.png": "/dgn-portfolio/static/media/blackout.84b5fb92e484f914dbff.png",
+    "static/media/bsgame.png": "/dgn-portfolio/static/media/bsgame.353dd42634ca4831e4b0.png",
+    "static/media/mypic.png": "/dgn-portfolio/static/media/mypic.bb53d44b253d7035e2df.png",
+    "static/media/portfolio.svg": "/dgn-portfolio/static/media/portfolio.469dd752ba081a34198b1424c316da85.svg",
+    "index.html": "/dgn-portfolio/index.html",
+    "static/media/mypage.svg": "/dgn-portfolio/static/media/mypage.0edfb232d022c88f0aef5b38f4f05e00.svg",
+    "static/media/resume.svg": "/dgn-portfolio/static/media/resume.e706296c0d26388ebda78e51170778c0.svg",
+    "static/media/intro.svg": "/dgn-portfolio/static/media/intro.203c597bfe6f743d0fb374d3f0dc28b2.svg",
+    "main.8f96fbd4.css.map": "/dgn-portfolio/static/css/main.8f96fbd4.css.map",
+    "main.1810af05.js.map": "/dgn-portfolio/static/js/main.1810af05.js.map",
+    "787.e01b844e.chunk.js.map": "/dgn-portfolio/static/js/787.e01b844e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f96fbd4.css",
+    "static/js/main.1810af05.js"
+  ]
+}
